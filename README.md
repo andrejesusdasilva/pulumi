@@ -18,4 +18,4 @@ __main__.py e os .yaml inicialmente.
 
 Rodar o comando pulumi up e verificar a saida do console ou usar a opção -y que não pede confirmação.
 
-Verificar a saida do console.
+Verificar a saida do console.# pulumi
