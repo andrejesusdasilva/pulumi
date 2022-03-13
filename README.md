@@ -15,7 +15,9 @@ Seguir as orientações do site https://www.pulumi.com/learn/ para iniciar o pro
 Depois de criado o projeto, copiar os seguintes arquivos:
 __main__.py e os .yaml inicialmente.
 
+Modificar o valor da chave publica em ec2.KeyPair.
 
 Rodar o comando pulumi up e verificar a saida do console ou usar a opção -y que não pede confirmação.
 
 Verificar a saida do console.# pulumi
+# pulumi
